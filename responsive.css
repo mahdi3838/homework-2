@@ -2,7 +2,7 @@ body {
     
 }@media(max-width:1750px){
     .header-ul-1{
-        margin-left: 30%;
+        margin-left: 20%;
     }
 }
 
@@ -10,7 +10,7 @@ body {
 
 @media(max-width:1620px){
     .header-ul-1{
-        margin-left: 20%;
+        margin-left: 12%;
     }
     footer{
         grid-template-columns: 540px 90px 110px 370px;
@@ -22,7 +22,7 @@ body {
 
 @media(max-width:1500px){
     .header-ul-1{
-        margin-left: 10%;
+        margin-left: 6%;
     }
     footer{
         grid-template-columns: 470px 90px 110px 370px;
@@ -37,7 +37,7 @@ body {
         padding: 0 7%;
     }
     .header-ul-1{
-        margin-left: 15%;
+        margin-left: 6%;
     }
     .section-1{
         padding: 0 7%;
@@ -70,7 +70,7 @@ body {
 
 @media(max-width:1300px){
     .header-ul-1{
-        margin-left: 7%;
+        margin-left: 2%;
     }
     header{
         height: 70px;
@@ -172,6 +172,11 @@ body {
     .header-ul-1{
         margin-left: 0;
     }
+    .header-ul-1 li a,
+    .header-ul-2 li a,
+    .header-ul-3 li a{
+        font-size: 22px;
+    }
     .section-1-btn-1{
         margin: 0 5px 0 0;
         width: 190px;
@@ -203,13 +208,8 @@ body {
     header{
         padding: 0 5%;
     }
-    .header-ul-1 li a,
-    .header-ul-2 li a,
-    .header-ul-3 li a{
-        font-size: 22px;
-    }
     .header-ul-1{
-        margin-left: 5%;
+        margin-left: 2%;
     }
     .header-btn{
         padding: 7px 10px;
